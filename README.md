@@ -32,7 +32,7 @@
 </p><br/>
 
 ## 📊 My stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chennelie&theme=darcula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laetitiahuriaux&theme=darcula&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chennelie&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetitiahuriaux&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
